@@ -1,0 +1,72 @@
+[{
+    "name": "Skytech Gaming PC Desktop ",
+    "price": 1999,
+    "description": "Intel Core i7 12700F 2.1 GHz, NVIDIA RTX 4070 Ti, 1TB NVME SSD, 16GB DDR4 RAM 3200, 750W Gold PSU, 360mm AIO, 11AC Wi-Fi, Windows 11 Home 64-bit,Black",
+    "ratings": 5,
+    "images": [
+      {
+        "public_id": "products/zyawrryr2hfwn4s9soxw",
+        "url": "https://res.cloudinary.com/dipzbp7rp/image/upload/v1705518248/products/zyawrryr2hfwn4s9soxw.png"
+      }
+    ],
+    "category": "PcGamer",
+    "stock": 100,
+    "numOfReviews": 99,
+    "reviews": [ ]
+    
+  },
+  {
+    "name": "Skytech Gaming Nebula Gaming",
+    "price": 849,
+    "description": "  Intel Core i5 13400F 2.5 GHz, NVIDIA RTX 4060, 1TB NVME SSD, 16GB DDR4 RAM 3200, 600W Gold PSU, 11AC Wi-Fi, Windows 11 Home 64-bit,Black",
+    "ratings": 3,
+    "images": [
+      {
+        "public_id": "products/p1mswmrnlcewq27k2ok3",
+        "url": "https://res.cloudinary.com/dipzbp7rp/image/upload/v1705518240/products/p1mswmrnlcewq27k2ok3.png"
+      }
+    ],
+    "category": "PcGamer",
+    "stock": 90,
+    "numOfReviews": 88,
+    "reviews": [ ]
+    
+  },
+  {
+    "name": "Skytech Gaming Nebula Gaming PC Desktop",
+    "price": 744,
+    "description": " Intel Core i5 13400F 2.5 GHz, NVIDIA RTX 3050, 1TB NVME SSD, 16GB DDR4 RAM 3200, 600W Gold PSU, 11AC Wi-Fi, Windows 11 Home 64-bit",
+    "ratings": 4,
+    "images": [
+      {
+        "public_id": "products/tttrkqox7xmxiudb5v3y",
+        "url": "https://res.cloudinary.com/dipzbp7rp/image/upload/v1705518240/products/tttrkqox7xmxiudb5v3y.png"
+      }
+    ],
+    "category": "PcGamer",
+    "stock": 90,
+    "numOfReviews": 88,
+    "reviews": [ ]
+    
+  },
+  {
+    "name": "Skytech Gaming Archangel Gaming PC Desktop ",
+    "price": 1199,
+    "description": "  Intel Core i7 12700F 2.1 GHz, NVIDIA RTX 4060, 1TB NVME SSD, 16GB DDR4 RAM 3200, 600W Gold PSU, 240mm AIO, 11AC Wi-Fi, Windows 11 Home 64-bi,White",
+    "ratings": 3,
+    "images": [
+      {
+        "public_id": "products/n3vi7gwqjchbuxwapkfm",
+        "url": "https://res.cloudinary.com/dipzbp7rp/image/upload/v1705518239/products/n3vi7gwqjchbuxwapkfm.png"
+      }
+    ],
+    "category": "PcGamer",
+    "stock": 90,
+    "numOfReviews": 88,
+    "reviews": [ ]
+    
+  }
+  
+  
+  
+  ]
